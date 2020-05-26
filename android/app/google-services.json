@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "555642595733",
+    "firebase_url": "https://ncfr-ae52d.firebaseio.com",
+    "project_id": "ncfr-ae52d",
+    "storage_bucket": "ncfr-ae52d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555642595733:android:a9b429bcdab48f938eee9c",
+        "android_client_info": {
+          "package_name": "com.example.ncfr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555642595733-g20qqed3330jedg6i4vf3e82t59dg26o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ncfr",
+            "certificate_hash": "ca387ff1228a7be49a6a90961bca31bc9f76d7ff"
+          }
+        },
+        {
+          "client_id": "555642595733-8ehrnmtg8cjjo5uss16ifl26d56b1asb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe_q4ab8Ya-1ObQrHhPVBSt5Ubd4lfIQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555642595733-8ehrnmtg8cjjo5uss16ifl26d56b1asb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
